@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\ConsoleApplication2\bin\Debug\robot.txt
+C:\Users\Administrator\Desktop\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\Administrator\Desktop\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\Administrator\Desktop\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\Administrator\Desktop\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\Administrator\Desktop\ConsoleApplication2\bin\Debug\Common.dll
+C:\Users\Administrator\Desktop\ConsoleApplication2\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\ConsoleApplication2\bin\Debug\Common.pdb
+C:\Users\Administrator\Desktop\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
