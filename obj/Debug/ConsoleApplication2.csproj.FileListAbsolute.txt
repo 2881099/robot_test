@@ -7,3 +7,5 @@ C:\Users\Administrator\Desktop\ConsoleApplication2\bin\Debug\Common.dll
 C:\Users\Administrator\Desktop\ConsoleApplication2\bin\Debug\log4net.dll
 C:\Users\Administrator\Desktop\ConsoleApplication2\bin\Debug\Common.pdb
 C:\Users\Administrator\Desktop\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+E:\net\robot_test\obj\Debug\ConsoleApplication2.exe
+E:\net\robot_test\obj\Debug\ConsoleApplication2.pdb

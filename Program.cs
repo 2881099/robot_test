@@ -77,6 +77,7 @@ namespace ConsoleApplication2 {
 
 				server.Write(new SocketMessager("robot_run", ret));
 				Console.WriteLine(ret);
+				Console.Write(DateTime.Now);
 			};
 
 			r.Error += (a, b) => {
