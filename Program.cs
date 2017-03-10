@@ -80,6 +80,7 @@ namespace ConsoleApplication2 {
 				Console.Write(DateTime.Now);
 			};
 
+
 			r.Error += (a, b) => {
 				//b.Def.RunParam
 				Console.WriteLine("{0} {1} 发生错误：", Now, b.Def, b.Exception.Message);
