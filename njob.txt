@@ -20,15 +20,15 @@
 
 
 
-自定义名字1 SEC 2 http://localhost:33165/schedule/test001.aspx
-自定义名字2 MIN 1 http://localhost:33165/schedule/test002.aspx
+自定义名字1 SEC 2 http://www.baidu.com/
+自定义名字2 MIN 1 http://www.baidu.com/
 
-自定义名字3 RunOnDay 21:54:00 http://localhost:33165/schedule/test002.aspx
-
-
-自定义名字4 RunOnWeek 5:21:56:00 http://localhost:33165/schedule/test002.aspx
+自定义名字3 RunOnDay 21:54:00 http://www.baidu.com/
 
 
-自定义名字5 RunOnWeek 6:21:56:00 http://localhost:33165/schedule/test002.aspx
+自定义名字4 RunOnWeek 5:21:56:00 http://www.baidu.com/
 
-自定义名字6 RunOnMonth 29:22:17:00 http://localhost:33165/schedule/test002.aspx
+
+自定义名字5 RunOnWeek 6:21:56:00 http://www.baidu.com/
+
+自定义名字6 RunOnMonth 29:22:17:00 http://www.baidu.com/

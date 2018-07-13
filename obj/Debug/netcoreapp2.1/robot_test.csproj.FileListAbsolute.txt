@@ -1,0 +1,12 @@
+C:\Users\28810\Desktop\github\robot_test\bin\Debug\netcoreapp2.1\robot_test.deps.json
+C:\Users\28810\Desktop\github\robot_test\bin\Debug\netcoreapp2.1\robot_test.runtimeconfig.json
+C:\Users\28810\Desktop\github\robot_test\bin\Debug\netcoreapp2.1\robot_test.runtimeconfig.dev.json
+C:\Users\28810\Desktop\github\robot_test\bin\Debug\netcoreapp2.1\robot_test.dll
+C:\Users\28810\Desktop\github\robot_test\bin\Debug\netcoreapp2.1\robot_test.pdb
+C:\Users\28810\Desktop\github\robot_test\obj\Debug\netcoreapp2.1\robot_test.csproj.CoreCompileInputs.cache
+C:\Users\28810\Desktop\github\robot_test\obj\Debug\netcoreapp2.1\robot_test.AssemblyInfoInputs.cache
+C:\Users\28810\Desktop\github\robot_test\obj\Debug\netcoreapp2.1\robot_test.AssemblyInfo.cs
+C:\Users\28810\Desktop\github\robot_test\obj\Debug\netcoreapp2.1\robot_test.dll
+C:\Users\28810\Desktop\github\robot_test\obj\Debug\netcoreapp2.1\robot_test.pdb
+C:\Users\28810\Desktop\github\robot_test\obj\Debug\netcoreapp2.1\robot_test.csprojAssemblyReference.cache
+C:\Users\28810\Desktop\github\robot_test\bin\Debug\netcoreapp2.1\njob.txt

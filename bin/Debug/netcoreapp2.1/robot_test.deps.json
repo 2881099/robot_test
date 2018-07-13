@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "e5d922fdc9cbdce3e6e5017e703a92a80ccc9b3e"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "robot_test/1.0.0": {
+        "dependencies": {
+          "NJob": "1.0.2"
+        },
+        "runtime": {
+          "robot_test.dll": {}
+        }
+      },
+      "NJob/1.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/NJob.dll": {
+            "assemblyVersion": "1.0.2.0",
+            "fileVersion": "1.0.2.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "robot_test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NJob/1.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+VNH6AD4AygMFoStXOy06Zid5GPS5anybqn+MxbcLt4gFT9At5wJeDOdJj/VydTiuJY8LlZUtgmTcr0gYt8ZDg==",
+      "path": "njob/1.0.2",
+      "hashPath": "njob.1.0.2.nupkg.sha512"
+    }
+  }
+}
