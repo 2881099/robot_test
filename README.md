@@ -1,7 +1,7 @@
 # robot_test
 简易任务调度Demo .net core console NJob Demo
 
-推荐使用[IdleScheulder 定时任务调度](https://github.com/2881099/IdleBus/tree/master/IdleScheduler)
+推荐使用 [IdleScheulder 定时任务调度](https://github.com/2881099/IdleBus/tree/master/IdleScheduler)
 
 ```txt
 ; 和 # 匀为行注释
